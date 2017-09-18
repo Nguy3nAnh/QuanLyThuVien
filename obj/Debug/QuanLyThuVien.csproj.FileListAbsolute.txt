@@ -1,2 +1,3 @@
 C:\Users\Zork\Documents\GitHub\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
 E:\forgithub\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\forgithub\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config

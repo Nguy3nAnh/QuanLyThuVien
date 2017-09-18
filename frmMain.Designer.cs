@@ -114,7 +114,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(666, 156);
+            this.ClientSize = new System.Drawing.Size(666, 419);
             this.Controls.Add(this.btnTimDocGia);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnXoaDocGia);
